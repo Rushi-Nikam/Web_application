@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+font-size: 65.5%;
+}
+:root {
+    --primary-color: #4234dc;
+    --secondary-color: #ff7a4a;
+    --padding-size: 1rem;
+  }
+  
